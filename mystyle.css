@@ -27,7 +27,7 @@ ul {
 
 .navbar ul {
 	margin: 0;
-	background-color: Black;
+	background-color: #4e3629;
 	position: fixed;
 	top: 10;
 	width: 99%;
@@ -40,10 +40,12 @@ ul {
 	text-decoration: none;
 	float: left;
 	border-right: 1px solid CornSilk;
+	border-left: 1px solid CornSilk;
+
 }
 
 .navbar li a:hover {
-	background-color: DimGrey;
+	background-color: #98a4ae;
 }
 
 .navbar li a:active {
@@ -51,7 +53,7 @@ ul {
 } 
 
 .active {
-  background-color: Maroon;
+  background-color: #ed1c24;
   color: CornSilk;
 }
 
