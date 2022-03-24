@@ -1,7 +1,7 @@
 
 html {
 	color: Black;
-	background-color: White;
+	background-color: CornSilk;
 }
 
 a:link {
@@ -13,11 +13,11 @@ a:visited {
 }
 
 a:hover {
-	color: LightSkyBlue;
+	color: LightSlateGrey;
 }
 
 a:active {
-	color: White;
+	color: CornSilk;
 } 
 
 ul {
@@ -27,7 +27,7 @@ ul {
 
 .navbar ul {
 	margin: 0;
-	background-color: RoyalBlue;
+	background-color: DarkSlateGrey;
 	position: fixed;
 	top: 10;
 	width: 99%;
@@ -35,24 +35,24 @@ ul {
 
 .navbar li a {
 	display: block;
-	color: White;
+	color: CornSilk;
 	padding: 12px 16px;
 	text-decoration: none;
 	float: left;
-	border-right: 1px solid White;
+	border-right: 1px solid CornSilk;
 }
 
 .navbar li a:hover {
-	background-color: LightSkyBlue;
+	background-color: LightSlateGrey;
 }
 
 .navbar li a:active {
-	background-color: White;
+	background-color: CornSilk;
 } 
 
 .active {
   background-color: MidnightBlue;
-  color: White;
+  color: CornSilk;
 }
 
 table {
