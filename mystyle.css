@@ -13,7 +13,7 @@ a:visited {
 }
 
 a:hover {
-	color: LightSlateGrey;
+	color: LightGrey;
 }
 
 a:active {
@@ -27,7 +27,7 @@ ul {
 
 .navbar ul {
 	margin: 0;
-	background-color: DarkSlateGrey;
+	background-color: Black;
 	position: fixed;
 	top: 10;
 	width: 99%;
@@ -43,15 +43,15 @@ ul {
 }
 
 .navbar li a:hover {
-	background-color: LightSlateGrey;
+	background-color: DimGrey;
 }
 
 .navbar li a:active {
-	background-color: CornSilk;
+	background-color: Silver;
 } 
 
 .active {
-  background-color: MidnightBlue;
+  background-color: Maroon;
   color: CornSilk;
 }
 
