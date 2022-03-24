@@ -1,6 +1,6 @@
 
 html {
-	color: Black;
+	color: #191919;
 	background-color: CornSilk;
 }
 
@@ -27,7 +27,7 @@ ul {
 
 .navbar ul {
 	margin: 0;
-	background-color: #4e3629;
+	background-color: #191919;
 	position: fixed;
 	top: 10;
 	width: 99%;
