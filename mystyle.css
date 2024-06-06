@@ -1,60 +1,24 @@
 
 html {
-	color: Black;
-	background-color: CornSilk;
+	color: #002E6D;
+	background-color: White;
 }
 
 a:link {
-	color: Blue;
+	color: #3E8EDE;
 }
 
 a:visited {
-	color: Purple;
+	color: #512C1D;
 }
 
 a:hover {
-	color: LightGrey;
+	color: #3172AE;
 }
-
-a:active {
-	color: CornSilk;
-} 
 
 ul {
 	padding: 0;
 	list-style-type: none;
-}
-
-.navbar ul {
-	margin: 0;
-	background-color: Black;
-	position: fixed;
-	top: 10;
-	width: 99%;
-}
-
-.navbar li a {
-	display: block;
-	color: CornSilk;
-	padding: 12px 16px;
-	text-decoration: none;
-	float: left;
-	border-right: 1px solid CornSilk;
-	border-left: 1px solid CornSilk;
-
-}
-
-.navbar li a:hover {
-	background-color: Grey;
-}
-
-.navbar li a:active {
-	background-color: Silver;
-} 
-
-.active {
-  background-color: Maroon;
-  color: CornSilk;
 }
 
 table {
