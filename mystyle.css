@@ -16,21 +16,7 @@ a:hover {
 	color: #3172AE;
 }
 
-ul {
-	padding: 0;
-	list-style-type: none;
-}
-
 table {
-	border-spacing: 10px 20px;
+	border-spacing: 10px 25px;
 }
-
-tr {
-	text-align:left;
-}
-
-td {
-	padding: 0px 0px;
-}
-
 
